@@ -92,7 +92,7 @@ If an invalid outfit is created, the builder throws an exception with an appropr
 
 1. Open the project in IntelliJ IDEA.
 2. Make sure a JDK is configured.
-3. Open `Main.java`.
+3. Open `src/Main.java`.
 4. Run the `main()` method.
 5. The created outfits and validation results will be displayed in the console.
 
